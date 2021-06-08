@@ -9,8 +9,8 @@ Essas instruções permitirão que você visualize o projeto em seu navegador.
 
 ### ⚙️ Executando
 
-De que coisas você precisa para instalar o software e como instalá-lo?
-Somente copiar o link abaixo e colar no seu navegador
+Como instalar esse projeto?
+Somente copie o link abaixo e cole no seu navegador.
 
 ```
 https://andressacola.github.io/portfolio01/
