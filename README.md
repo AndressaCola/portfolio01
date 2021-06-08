@@ -4,9 +4,8 @@ Linguagens HTML, CSS, JS e Bootstrap
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+Essas instruções permitirão que você visualize o projeto em seu navegador.
 
-Consulte **Implantação** para saber como implantar o projeto.
 
 ### ⚙️ Executando
 
