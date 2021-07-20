@@ -16,13 +16,5 @@ Somente copie o link abaixo e cole no seu navegador.
 https://andressacola.github.io/portfolio01/
 ```
 
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
-* Obrigada 🤓.
-* etc.
-
-
 ---
 ⌨️ com ❤️ por Andressa Cola [DEVCOLA] 😊
